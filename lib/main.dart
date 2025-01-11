@@ -1,4 +1,4 @@
-import 'package:final_project/Pages/theme/app_theme.dart';
+import 'package:final_project/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'pages/login_page.dart';

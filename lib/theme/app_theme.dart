@@ -4,27 +4,30 @@ class AppTheme {
   static ThemeData get lightTheme {
     return ThemeData(
       colorScheme: ColorScheme.fromSeed(
-        seedColor: const Color(0xFF6750A4),
-        secondary: const Color(0xFF625B71),
+        seedColor: const Color.fromARGB(255, 103, 80, 164),
+        secondary: const Color.fromARGB(255, 98, 91, 113),
       ),
-      useMaterial3: true,
+
       appBarTheme: const AppBarTheme(
         centerTitle: true,
         elevation: 0,
-        backgroundColor: Color(0xFF6750A4),
+        backgroundColor: Color.fromARGB(255, 103, 80, 164),
         foregroundColor: Colors.white,
       ),
+
       inputDecorationTheme: InputDecorationTheme(
         filled: true,
-        fillColor: Colors.grey.shade100,
+        fillColor: const Color.fromARGB(255, 255, 255, 255),
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(12),
           borderSide: BorderSide.none,
         ),
+
         enabledBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(12),
           borderSide: BorderSide.none,
         ),
+        
         focusedBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(12),
           borderSide: const BorderSide(color: Color(0xFF6750A4), width: 2),
