@@ -1,4 +1,7 @@
-![Header](https://github.com/user-attachments/assets/e373e9b9-923b-4ad5-8c40-84c2e2d3d3d1)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/e373e9b9-923b-4ad5-8c40-84c2e2d3d3d1" alt="header">
+</div>
+
 
 
 # To do application 
@@ -32,7 +35,15 @@ Allow users to add , mark as completed, and delete tasks, while ensuring smooth 
 <br/>
 <br/>
 
-# Thank you for checking out the project !
+# 
+
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/30f5b3f3-51d4-4dd3-9990-bda72fcef73c" alt="Footer">
+</div>
+
+
+# 
 For questions or suggestions, feel free to reach out:
 - Email: xiw92x@gmail.com
 - GitHub: [Badr1509](https://github.com/Badr1509)
